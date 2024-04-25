@@ -1,5 +1,6 @@
 # Feature_Detectors_Descriptors
-
+Function call should be aligned to HFNet-SLAM or Super-SLAM.
+---------------------------------------------------
 TODO:
 
 SuperGlue
